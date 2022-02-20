@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Santhosh Namala
-- 👀 I’m interested in learning new things/
+- 👀 I’m interested in learning new things.
 - 🌱 I’m currently learning various programming languages, to make life easy.
 - 💞️ I’m looking to collaborate with many developers through out the world and want to build amazing applications.
 - 📫 How to reach me namala.santosh007@gmail.com
